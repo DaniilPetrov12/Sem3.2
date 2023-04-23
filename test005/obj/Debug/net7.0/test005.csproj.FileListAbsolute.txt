@@ -1,0 +1,15 @@
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\bin\Debug\net7.0\test005.exe
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\bin\Debug\net7.0\test005.deps.json
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\bin\Debug\net7.0\test005.runtimeconfig.json
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\bin\Debug\net7.0\test005.dll
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\bin\Debug\net7.0\test005.pdb
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.AssemblyInfoInputs.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.AssemblyInfo.cs
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.dll
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\refint\test005.dll
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.pdb
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\test005.genruntimeconfig.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test005\obj\Debug\net7.0\ref\test005.dll
