@@ -1,0 +1,15 @@
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\bin\Debug\net7.0\test8.exe
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\bin\Debug\net7.0\test8.deps.json
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\bin\Debug\net7.0\test8.runtimeconfig.json
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\bin\Debug\net7.0\test8.dll
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\bin\Debug\net7.0\test8.pdb
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.AssemblyInfoInputs.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.AssemblyInfo.cs
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.dll
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\refint\test8.dll
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.pdb
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\test8.genruntimeconfig.cache
+C:\Users\Даниил\Desktop\Учеба\Sem3.2\test8\obj\Debug\net7.0\ref\test8.dll
